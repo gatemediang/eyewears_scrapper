@@ -2,6 +2,7 @@
 This script scrapes products on framedirect.com/eyeglasses with basic details.
 """
 
+# Import necessary libraries
 import csv
 import json
 from selenium import webdriver
@@ -48,6 +49,7 @@ except (TimeoutError, Exception) as e:
     driver.quit()
     print("Closed")
 
+# Step 2 - Data Parsing and Extraction
 # Get page source and parse using BeautifulSoup
 content = driver.page_source
 page = BeautifulSoup(content, "html.parser")
@@ -111,6 +113,7 @@ for holder in product_holders:
     }
     glasses_data.append(data)
 
+# Step 3 - Data Storage and Finalization
 # Save to CSV file
 if glasses_data:  # only proceed if list is not empty
     column_name = glasses_data[0].keys()
