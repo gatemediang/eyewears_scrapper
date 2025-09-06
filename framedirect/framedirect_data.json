@@ -1,0 +1,177 @@
+[
+    {
+        "Brand": "Ray-Ban",
+        "Product_Name": "RB7047",
+        "Retail_Price": null,
+        "Discounted_Price": "176",
+        "Discount": null
+    },
+    {
+        "Brand": "Oakley",
+        "Product_Name": "Plank 2.0",
+        "Retail_Price": null,
+        "Discounted_Price": "187",
+        "Discount": null
+    },
+    {
+        "Brand": null,
+        "Product_Name": null,
+        "Retail_Price": null,
+        "Discounted_Price": null,
+        "Discount": null
+    },
+    {
+        "Brand": "Oakley",
+        "Product_Name": "Socket 5.5",
+        "Retail_Price": null,
+        "Discounted_Price": "227",
+        "Discount": null
+    },
+    {
+        "Brand": "Oakley",
+        "Product_Name": "Holbrook RX",
+        "Retail_Price": null,
+        "Discounted_Price": "187",
+        "Discount": null
+    },
+    {
+        "Brand": "Oakley",
+        "Product_Name": "Wheel House",
+        "Retail_Price": null,
+        "Discounted_Price": "242",
+        "Discount": null
+    },
+    {
+        "Brand": "Ray-Ban",
+        "Product_Name": "RB8908",
+        "Retail_Price": null,
+        "Discounted_Price": "276",
+        "Discount": null
+    },
+    {
+        "Brand": "Ray-Ban",
+        "Product_Name": "RB7229",
+        "Retail_Price": "222",
+        "Discounted_Price": "155.40",
+        "Discount": "30% Off"
+    },
+    {
+        "Brand": "Oakley",
+        "Product_Name": "Pitchman R Carbon - Alternate Fit",
+        "Retail_Price": null,
+        "Discounted_Price": "297",
+        "Discount": null
+    },
+    {
+        "Brand": "Ray-Ban",
+        "Product_Name": "RB6645",
+        "Retail_Price": null,
+        "Discounted_Price": "210",
+        "Discount": null
+    },
+    {
+        "Brand": "Ray-Ban",
+        "Product_Name": "RB7260",
+        "Retail_Price": null,
+        "Discounted_Price": "210",
+        "Discount": null
+    },
+    {
+        "Brand": "Ray-Ban",
+        "Product_Name": "RB5154 Clubmaster",
+        "Retail_Price": null,
+        "Discounted_Price": "222",
+        "Discount": null
+    },
+    {
+        "Brand": "Persol",
+        "Product_Name": "PO3189V",
+        "Retail_Price": "342",
+        "Discounted_Price": "171",
+        "Discount": "50% Off"
+    },
+    {
+        "Brand": "Burberry",
+        "Product_Name": "BE2315",
+        "Retail_Price": "266",
+        "Discounted_Price": "133",
+        "Discount": "50% Off"
+    },
+    {
+        "Brand": "Persol",
+        "Product_Name": "PO3297V",
+        "Retail_Price": null,
+        "Discounted_Price": "342",
+        "Discount": null
+    },
+    {
+        "Brand": "Versace",
+        "Product_Name": "VE1285",
+        "Retail_Price": "300",
+        "Discounted_Price": "210",
+        "Discount": "30% Off"
+    },
+    {
+        "Brand": "Gucci",
+        "Product_Name": "GG1340O",
+        "Retail_Price": "305",
+        "Discounted_Price": "259.25",
+        "Discount": "15% Off"
+    },
+    {
+        "Brand": "Gucci",
+        "Product_Name": "GG1221O",
+        "Retail_Price": "605",
+        "Discounted_Price": "514.25",
+        "Discount": "15% Off"
+    },
+    {
+        "Brand": "Kate Spade",
+        "Product_Name": "Charlee",
+        "Retail_Price": "245",
+        "Discounted_Price": "171.50",
+        "Discount": "30% Off"
+    },
+    {
+        "Brand": "Kate Spade",
+        "Product_Name": "Lucyann",
+        "Retail_Price": "230",
+        "Discounted_Price": "161",
+        "Discount": "30% Off"
+    },
+    {
+        "Brand": "Burberry",
+        "Product_Name": "BE2417",
+        "Retail_Price": "327",
+        "Discounted_Price": "228.90",
+        "Discount": "30% Off"
+    },
+    {
+        "Brand": "Dolce & Gabbana",
+        "Product_Name": "DG3415",
+        "Retail_Price": "335",
+        "Discounted_Price": "234.50",
+        "Discount": "30% Off"
+    },
+    {
+        "Brand": "Versace",
+        "Product_Name": "VE3373U",
+        "Retail_Price": "316",
+        "Discounted_Price": "221.20",
+        "Discount": "30% Off"
+    },
+    {
+        "Brand": "RALPH by Ralph Lauren",
+        "Product_Name": "RA7158U",
+        "Retail_Price": "141",
+        "Discounted_Price": "98.70",
+        "Discount": "30% Off"
+    },
+    {
+        "Brand": "Ray-Ban",
+        "Product_Name": "RB7140",
+        "Retail_Price": null,
+        "Discounted_Price": "237",
+        "Discount": null
+    }
+]
