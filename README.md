@@ -28,7 +28,7 @@ This project demonstrates how to scrape data from dynamic websites using Python 
    ```
 
 ## Usage
-- Open `demo.ipynb` in Jupyter Notebook or VS Code.
+- Open `framedirect.ipynb` in Jupyter Notebook or `framedirect.py` in VS Code.
 - Run the cells to scrape data from the target website.
 - The notebook will save the results into `output.csv` and `output.json`.
 
@@ -38,7 +38,7 @@ This project demonstrates how to scrape data from dynamic websites using Python 
 
 ## Notes
 - For dynamic websites, Selenium or similar tools are used to render JavaScript content.
-- Update the target URL and scraping logic in `demo.ipynb` as needed for your use case.
+- Update the target URL and scraping logic in `framedirect.ipynb` or `framedirect.py` as needed for your use case.
 
 ## License
 MIT.
