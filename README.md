@@ -1,4 +1,4 @@
-# Demo: Dynamic Website Scraper
+# Dynamic Website Scraper
 
 This project demonstrates how to scrape data from dynamic websites using Python and save the results into both CSV and JSON formats.
 
@@ -28,9 +28,10 @@ This project demonstrates how to scrape data from dynamic websites using Python 
    ```
 
 ## Usage
-- Open `framedirect.ipynb` in Jupyter Notebook or `framedirect.py` in VS Code.
-- Run the cells to scrape data from the target website.
-- The notebook will save the results into `output.csv` and `output.json`.
+- Open eyewears_scrapper folder in VSCODE, Navigate to framedirect or glassdata1 folder
+- Open `framedirect_pages.py` or `glasses_pag.py` and run in terminal one at a time.
+- Each scripts scrape product data from different dynamic websites and save them into a csv and json out put.
+- Check created folder for the output data.
 
 ## Output
 - `output.csv`: Scraped data in CSV format
