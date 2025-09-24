@@ -38,8 +38,10 @@ This project demonstrates how to scrape data from dynamic websites using Python 
 - `output.json`: Scraped data in JSON format
 
 ## Notes
+- Output data in the subfolders mark the second phase of this project.
+- framedirect_pages.py and glasses_pag.py are able to scrape multiple pages
 - For dynamic websites, Selenium or similar tools are used to render JavaScript content.
-- Update the target URL and scraping logic in `framedirect.ipynb` or `framedirect.py` as needed for your use case.
+- Update the target URL and scraping logic in `glasses.py` or `framedirect.py` as  needed for your use case(Thes scripts scrape only the first page).
 
 ## License
 MIT.
