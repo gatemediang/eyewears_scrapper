@@ -439,7 +439,9 @@ def parse_product_data(page_source: str) -> List[Dict]:
     return glasses_data
 
 
-def save_to_csv(data: List[Dict], filename: str = "framedirect_data2.csv") -> bool:
+def save_to_csv(
+    data: List[Dict], filename: str = "pagedata/framedirect_data2.csv"
+) -> bool:
     """
     Save product data to CSV file.
 
@@ -455,6 +457,11 @@ def save_to_csv(data: List[Dict], filename: str = "framedirect_data2.csv") -> bo
         return False
 
     try:
+        # Create directory if it doesn't exist
+        import os
+
+        os.makedirs(os.path.dirname(filename), exist_ok=True)
+
         column_names = data[0].keys()
         with open(filename, mode="w", newline="", encoding="utf-8") as csv_file:
             dict_writer = csv.DictWriter(csv_file, fieldnames=column_names)
@@ -467,7 +474,9 @@ def save_to_csv(data: List[Dict], filename: str = "framedirect_data2.csv") -> bo
         return False
 
 
-def save_to_json(data: List[Dict], filename: str = "framedirect_data2.json") -> bool:
+def save_to_json(
+    data: List[Dict], filename: str = "pagedata/framedirect_data2.json"
+) -> bool:
     """
     Save product data to JSON file.
 
@@ -479,6 +488,11 @@ def save_to_json(data: List[Dict], filename: str = "framedirect_data2.json") -> 
         bool: True if successful, False otherwise
     """
     try:
+        # Create directory if it doesn't exist
+        import os
+
+        os.makedirs(os.path.dirname(filename), exist_ok=True)
+
         with open(filename, mode="w", encoding="utf-8") as json_file:
             json.dump(data, json_file, indent=4)
         print(f"Saved {len(data)} records to {filename}")
@@ -501,8 +515,8 @@ def cleanup_driver(driver: webdriver.Chrome) -> None:
 
 def scrape_framedirect_eyeglasses(
     url: str = "https://www.framesdirect.com/eyeglasses/",
-    csv_filename: str = "framedirect_data2.csv",
-    json_filename: str = "framedirect_data2.json",
+    csv_filename: str = "pagedata/framedirect_data2.csv",
+    json_filename: str = "pagedata/framedirect_data2.json",
     max_pages: int = 1,
 ) -> List[Dict]:
     """
@@ -650,7 +664,7 @@ if __name__ == "__main__":
     print("=== FrameDirect Eyeglasses Scraper ===")
 
     # Direct page control - Change this number to scrape different number of pages
-    PAGES_TO_SCRAPE = 99  # ← CHANGE THIS NUMBER TO SCRAPE MORE/FEWER PAGES
+    PAGES_TO_SCRAPE = 3  # ← CHANGE THIS NUMBER TO SCRAPE MORE/FEWER PAGES
 
     print(f"Configured to scrape {PAGES_TO_SCRAPE} page(s) of eyeglasses data.")
     print(f"Starting scrape for {PAGES_TO_SCRAPE} page(s)...")
