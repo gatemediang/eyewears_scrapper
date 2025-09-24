@@ -5,7 +5,7 @@ This project demonstrates how to scrape data from dynamic websites using Python 
 ## Features
 - Scrapes data from dynamic websites (JavaScript-rendered content)
 - Saves scraped data into `csv` and `json` files
-- Example workflow provided in `demo.ipynb`
+- Example workflow provided in `framedirect.ipynb`
 
 ## Requirements
 - Python 3.7+
@@ -24,7 +24,7 @@ This project demonstrates how to scrape data from dynamic websites using Python 
    ```
    Or install packages directly in the notebook using:
    ```python
-   !pip install requests beautifulsoup4 selenium pandas
+   !pip install requests beautifulsoup4 selenium webdriver-manager
    ```
 
 ## Usage

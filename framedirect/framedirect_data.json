@@ -7,10 +7,10 @@
         "Discount": null
     },
     {
-        "Brand": "Oakley",
-        "Product_Name": "Plank 2.0",
+        "Brand": "Ray-Ban",
+        "Product_Name": "RB6335",
         "Retail_Price": null,
-        "Discounted_Price": "187",
+        "Discounted_Price": "210",
         "Discount": null
     },
     {
@@ -18,6 +18,20 @@
         "Product_Name": null,
         "Retail_Price": null,
         "Discounted_Price": null,
+        "Discount": null
+    },
+    {
+        "Brand": "Oakley",
+        "Product_Name": "Airdrop",
+        "Retail_Price": null,
+        "Discounted_Price": "227",
+        "Discount": null
+    },
+    {
+        "Brand": "Ray-Ban",
+        "Product_Name": "RB3447V Round Metal",
+        "Retail_Price": null,
+        "Discounted_Price": "210",
         "Discount": null
     },
     {
@@ -36,24 +50,31 @@
     },
     {
         "Brand": "Oakley",
-        "Product_Name": "Wheel House",
+        "Product_Name": "Stagebeam",
+        "Retail_Price": "199",
+        "Discounted_Price": "99.50",
+        "Discount": "50% Off"
+    },
+    {
+        "Brand": "Oakley",
+        "Product_Name": "Port Bow",
         "Retail_Price": null,
-        "Discounted_Price": "242",
+        "Discounted_Price": "187",
+        "Discount": null
+    },
+    {
+        "Brand": "Oakley",
+        "Product_Name": "Hex Jector (TruBridge)",
+        "Retail_Price": null,
+        "Discounted_Price": "187",
         "Discount": null
     },
     {
         "Brand": "Ray-Ban",
-        "Product_Name": "RB8908",
+        "Product_Name": "RB7217 Chad Optics Bio-Based",
         "Retail_Price": null,
-        "Discounted_Price": "276",
+        "Discounted_Price": "189",
         "Discount": null
-    },
-    {
-        "Brand": "Ray-Ban",
-        "Product_Name": "RB7229",
-        "Retail_Price": "222",
-        "Discounted_Price": "155.40",
-        "Discount": "30% Off"
     },
     {
         "Brand": "Oakley",
@@ -64,17 +85,24 @@
     },
     {
         "Brand": "Ray-Ban",
-        "Product_Name": "RB6645",
+        "Product_Name": "RB5445",
+        "Retail_Price": null,
+        "Discounted_Price": "186",
+        "Discount": null
+    },
+    {
+        "Brand": "Ray-Ban",
+        "Product_Name": "RB6647",
         "Retail_Price": null,
         "Discounted_Price": "210",
         "Discount": null
     },
     {
         "Brand": "Ray-Ban",
-        "Product_Name": "RB7260",
-        "Retail_Price": null,
-        "Discounted_Price": "210",
-        "Discount": null
+        "Product_Name": "RB5344D",
+        "Retail_Price": "261",
+        "Discounted_Price": "130.50",
+        "Discount": "50% Off"
     },
     {
         "Brand": "Ray-Ban",
@@ -84,32 +112,18 @@
         "Discount": null
     },
     {
-        "Brand": "Persol",
-        "Product_Name": "PO3189V",
-        "Retail_Price": "342",
-        "Discounted_Price": "171",
-        "Discount": "50% Off"
-    },
-    {
-        "Brand": "Burberry",
-        "Product_Name": "BE2315",
-        "Retail_Price": "266",
-        "Discounted_Price": "133",
-        "Discount": "50% Off"
-    },
-    {
-        "Brand": "Persol",
-        "Product_Name": "PO3297V",
-        "Retail_Price": null,
-        "Discounted_Price": "342",
-        "Discount": null
-    },
-    {
-        "Brand": "Versace",
-        "Product_Name": "VE1285",
-        "Retail_Price": "300",
-        "Discounted_Price": "210",
+        "Brand": "Kate Spade",
+        "Product_Name": "Hermione/G",
+        "Retail_Price": "230",
+        "Discounted_Price": "161",
         "Discount": "30% Off"
+    },
+    {
+        "Brand": "Dolce & Gabbana",
+        "Product_Name": "DG5101",
+        "Retail_Price": null,
+        "Discounted_Price": "288",
+        "Discount": null
     },
     {
         "Brand": "Gucci",
@@ -119,59 +133,45 @@
         "Discount": "15% Off"
     },
     {
-        "Brand": "Gucci",
-        "Product_Name": "GG1221O",
-        "Retail_Price": "605",
-        "Discounted_Price": "514.25",
-        "Discount": "15% Off"
-    },
-    {
-        "Brand": "Kate Spade",
-        "Product_Name": "Charlee",
-        "Retail_Price": "245",
-        "Discounted_Price": "171.50",
-        "Discount": "30% Off"
-    },
-    {
-        "Brand": "Kate Spade",
-        "Product_Name": "Lucyann",
-        "Retail_Price": "230",
-        "Discounted_Price": "161",
-        "Discount": "30% Off"
-    },
-    {
-        "Brand": "Burberry",
-        "Product_Name": "BE2417",
-        "Retail_Price": "327",
-        "Discounted_Price": "228.90",
-        "Discount": "30% Off"
-    },
-    {
-        "Brand": "Dolce & Gabbana",
-        "Product_Name": "DG3415",
-        "Retail_Price": "335",
-        "Discounted_Price": "234.50",
-        "Discount": "30% Off"
+        "Brand": "Versace",
+        "Product_Name": "VE3373U",
+        "Retail_Price": null,
+        "Discounted_Price": "316",
+        "Discount": null
     },
     {
         "Brand": "Versace",
-        "Product_Name": "VE3373U",
-        "Retail_Price": "316",
-        "Discounted_Price": "221.20",
-        "Discount": "30% Off"
+        "Product_Name": "VE1175B",
+        "Retail_Price": null,
+        "Discounted_Price": "316",
+        "Discount": null
     },
     {
-        "Brand": "RALPH by Ralph Lauren",
-        "Product_Name": "RA7158U",
-        "Retail_Price": "141",
-        "Discounted_Price": "98.70",
-        "Discount": "30% Off"
+        "Brand": "Michael Kors",
+        "Product_Name": "MK4098BU",
+        "Retail_Price": "204",
+        "Discounted_Price": "102",
+        "Discount": "50% Off"
+    },
+    {
+        "Brand": "Swarovski",
+        "Product_Name": "SK2018",
+        "Retail_Price": null,
+        "Discounted_Price": "261",
+        "Discount": null
+    },
+    {
+        "Brand": "Vogue",
+        "Product_Name": "VO5668F",
+        "Retail_Price": null,
+        "Discounted_Price": "119",
+        "Discount": null
     },
     {
         "Brand": "Ray-Ban",
-        "Product_Name": "RB7140",
+        "Product_Name": "RB7025",
         "Retail_Price": null,
-        "Discounted_Price": "237",
+        "Discounted_Price": "210",
         "Discount": null
     }
 ]
